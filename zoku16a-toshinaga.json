@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/toshinaga",
  "yomi": "きいのくにのみやつことしながしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "南北朝時代",
+  "author": "紀俊長",
+  "desc": "紀伊国造として日前・国懸神宮に仕えた紀俊長の家集。百首・七十首・聖護院五十首など定数歌の詠が多く、三輪社法楽の歌も見える。"
+ },
  "editions": [
   {
    "pid": "936505",
