@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 4,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zoku16a-toshinaga-0001",
@@ -2241,6 +2244,7 @@
   "poems": 181,
   "editions": 1,
   "updated": "2026-11-05",
-  "updated_at": "2026-11-05T03:18:00+09:00"
+  "updated_at": "2026-11-05T03:18:00+09:00",
+  "yaku": 4
  }
 }
